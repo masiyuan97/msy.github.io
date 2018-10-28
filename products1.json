@@ -1,0 +1,47 @@
+{
+    "girl":"Siyuan",
+    "age":21,
+    "height":167,
+    "major":"software engineering",
+    "members":[
+    {
+        "name":"Bobbi Brown虫草粉底液",
+        "price": 620,
+        "type":"化妆品",
+        "like":"very",
+        "link":"sypictures/p2.jpg"
+    },
+    {
+        "name":"DHC 深层卸妆油",
+        "price": 169,
+        "type":"洁面产品",
+        "like":"very",
+        "link":"sypictures/p3.jpg"
+    },
+    {
+        "name":"YSL女士kate流苏包",
+        "price": 11359,
+        "type":"包包",
+        "like":"super",
+        "link":"sypictures/p4.jpg"
+    },
+    {
+        "name":"chole经典马鞍包",
+        "price": 12089,
+        "type":"包包",
+        "like":"super super",
+        "link":"sypictures/p5.jpg"
+    },
+    {
+        "name":"乌拉拉连体睡衣",
+        "price": 229,
+        "type":"服装",
+        "like":"normal",
+        "link":"sypictures/p6.jpg"
+    }
+
+    ]
+
+
+    
+}
